@@ -6,7 +6,7 @@ I am passionate about applying technology to solve real-world problems, to impro
 
 When I am not working or advocating technology, I am usually watching documentaries or reading. I like watching/attending TED talks, exploring places on Google Maps, and reading or watching travel experiences, walking. Outside of technology, my interests include music, astronomy, travel and photography.
 
-I am always excited to meet new people, learn new things and take up challenging assignments, so feel free to say hello and let me know how I can help. I can be reached at vaseemk@hotmail.com.
+I am always excited to meet new people, learn new things and take up challenging assignments, so feel free to say hello and let me know how I can help.
 
 Core Skills:
 Programming:
