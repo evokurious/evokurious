@@ -1,12 +1,10 @@
-#Hello there!
+# Hello There!
 
-I have always been fascinated by how fast technology has evolved in the last few decades and the impact it has had on enterprises, economies and people's lives. The role tech has played in making the world a 'global village' is undeniable.
+Wondering what that GitHub handle means?
 
-I am passionate about applying technology to solve real-world problems, to improve efficiency and to have a positive impact. I love keeping clutter at bay and keeping things simple. I think technology is a great enabler to achieve this. As a full stack .Net web developer, I am truly fortunate to have a career in the areas I am passionate about.
+`Evoke + Curious(ity) = evokurious`
 
-When I am not working or advocating technology, I am usually watching documentaries or reading. I like watching/attending TED talks, exploring places on Google Maps, and reading or watching travel experiences, walking. Outside of technology, my interests include music, astronomy, travel and photography.
-
-I am always excited to meet new people, learn new things and take up challenging assignments, so feel free to say hello and let me know how I can help.
+Passionate about applying technology to solve real-world problems, to improve efficiency and to have a positive impact.
 
 Core Skills:
 Programming:
